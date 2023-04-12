@@ -1,0 +1,1 @@
+This is a digitalized Nims game where there are 12 matches. There is a an option to choose whether you want to start to play the game as a player or a computer. Once the game has finished you have an option to restart the game. The first player who chooses the las pieces wins
